@@ -1,0 +1,65 @@
+.attribution {color: rgb(255, 255, 255); font-size: 11px; text-align: center; }
+.attribution a { color: rgb(62, 82, 163); }
+.attribution {
+    position: absolute; top: 480px; left: 520px;
+}
+
+body {
+    background-color: rgb(0, 0, 2);
+}
+
+img {
+    filter: invert(18%) sepia(100%) hue-rotate(-139deg) saturate(5) contrast(105%) brightness(55%);
+    position: absolute;top: 150px; left: 600px;
+ }
+
+.box {
+    width: 400px;
+    height: 320px;
+    background-color:rgb(26, 2, 71);
+    position: absolute; top: 150px; left: 230px;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    padding-left: 40px;
+    padding-top: 20px;
+}
+
+#distac {
+    color: rgb(143, 9, 177);
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding-left: 40px;
+}
+
+#container {
+    color: rgb(255, 255, 255);
+}
+
+.number {
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+.box2 {
+    padding-left: 40px;
+    position: absolute; top: 232px; left:0px;
+}
+
+.box3 {
+    padding-left: 40px;
+    position: absolute; top: 232px; left:135px;
+}
+
+.box4 {
+    padding-left: 40px;
+    position: absolute; top: 232px; left:250px;
+}
